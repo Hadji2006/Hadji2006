@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate stats
+        uses: rahul-jha98/github-stats-transparent@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Hadji2006
-          template: classic
-          base: ""
-          plugin_activity: yes
-          config_display: large
-          config_padding: 0
-          output_action: commit
+          github_username: Hadji2006
+
+      - name: Commit files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "output/generated/*.svg"
+          message: "Update stats"
