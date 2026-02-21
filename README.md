@@ -66,7 +66,7 @@
       <img src="https://skillicons.dev/icons?i=javascript" height="35"/><br/>
       <b>JavaScript</b>
     </td>
-    <td align="center">0%</td>
+    <td align="center">1.75%</td>
     <td>Upcoming focus in Web Development path</td>
   </tr>
 
