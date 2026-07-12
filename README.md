@@ -42,7 +42,7 @@ Git • GitHub • VS Code • Linux
 
 ##  Contact Me
 
-- **whatsapp:** https://web.whatsapp.com/
+- **whatsapp:** https://wa.me/213657789481
 - **Email:** 242432047416@univ-chlef.dz
 
 ---
