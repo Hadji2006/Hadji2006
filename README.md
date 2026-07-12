@@ -9,11 +9,12 @@ Devoloper full stack
 
 ## 👨‍💻 About Me
 
-I'm a passionate Frontend Developer who enjoys turning ideas into modern, responsive, and user-friendly web experiences.
+I'm a passionate **Full-Stack Developer** who enjoys transforming ideas into modern, scalable, and user-friendly web applications.
 
-I believe that good software is not only functional but also clean, intuitive, and enjoyable to use. Every project is an opportunity to learn, improve, and create something meaningful.
+I enjoy working across both the frontend and backend, combining thoughtful design with reliable functionality to create seamless digital experiences.
 
-Currently, I'm expanding my knowledge in backend development while continuing to build high-quality websites and web applications.
+I'm committed to continuous learning, exploring new technologies, and building high-quality software that solves real-world problems.
+
 
 ---
 
