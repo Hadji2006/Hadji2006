@@ -41,9 +41,8 @@ Git • GitHub • VS Code • Linux
 
 ## 📫 Contact Me
 
-- **GitHub:** https://github.com/Hadji2006
-- **Email:** your.email@example.com
-- **Portfolio:** https://your-portfolio.com
+- **whatsapp:** https://web.whatsapp.com/
+- **Email:** 242432047416@univ-chlef.dz
 
 ---
 
