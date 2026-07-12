@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adem Hadji</h1>
 
 <p align="center">
-Frontend Developer from Algeria 🇩🇿
+Devoloper full stack 
 </p>
 
 ---
