@@ -1,123 +1,242 @@
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Adem%20Hadji%20%7C%20Web%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Adem%20Hadji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descSize=18&descAlignY=55"
+    alt="Adem Hadji — Computer Science Student"
+  />
 </p>
 
-
-
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=L2+Computer+Science+Student;Aspiring+Full-Stack+Web+Developer;Focused+on+Front-End+Development;Learning%2C+Building%2C+and+Improving+Every+Day"
+    alt="Typing introduction"
+  />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+(L2+Informatique);Future+Full+Stack+Web+Developer;Front-end+Focused;Building+Real+Foundations+Daily" />
+  <a href="https://github.com/Hadji2006">
+    <img src="https://img.shields.io/github/followers/Hadji2006?label=Followers&style=for-the-badge&logo=github&color=00C2FF" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hadji2006&style=for-the-badge&color=00C2FF" alt="Profile views" />
 </p>
 
 ---
 
-## 👨‍💻 Profile
+<!-- ========================= ABOUT ========================= -->
 
-• L2 Computer Science Student  
-• Future Full Stack Web Developer  
-• Currently strengthening programming foundations  
-• Focused on long-term technical growth  
+## 👨‍💻 About Me
+
+
+
+- 🎓 I am an **L2 Computer Science student**
+- 💻 I am working toward becoming a **Full-Stack Web Developer**
+- 🎨 My current focus is **front-end development and responsive design**
+- 🧠 I am strengthening my **programming and problem-solving fundamentals**
+- 🚀 I learn by creating practical projects and improving them over time
+- 📚 I am committed to consistent, long-term technical growth
 
 ---
 
-# 🧠 Programming Languages
+<!-- ========================= SKILLS ========================= -->
 
-## 🧠 Programming Overview
+## 🛠️ Technologies and Tools
 
-<div align="center">
+### Front-End Development
 
-<table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Front-end technologies" />
+</p>
+
+### Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" alt="Programming languages" />
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" />
+</p>
+
+---
+
+<!-- ========================= CURRENT PROGRESS ========================= -->
+
+## 📚 Current Learning Progress
+
+<table align="center">
   <tr>
-    <th>Language</th>
-    <th>Level</th>
+    <th>Technology</th>
+    <th>Current Focus</th>
     <th>Status</th>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" height="35"/><br/>
-      <b>C</b>
+      <img src="https://skillicons.dev/icons?i=html" width="35" alt="HTML" />
+      <br />
+      <strong>HTML</strong>
     </td>
-    <td align="center">5%</td>
-    <td>Foundation stage — needs consistent practice</td>
+    <td>Semantic structure, accessibility, and clean markup</td>
+    <td>🟢 Building</td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="35"/><br/>
-      <b>Python</b>
+      <img src="https://skillicons.dev/icons?i=css" width="35" alt="CSS" />
+      <br />
+      <strong>CSS</strong>
     </td>
-    <td align="center">5%</td>
-    <td>Early learning — basic familiarity</td>
+    <td>Responsive layouts, Flexbox, Grid, and animations</td>
+    <td>🟢 Building</td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" height="35"/><br/>
-      <b>Java</b>
+      <img src="https://skillicons.dev/icons?i=javascript" width="35" alt="JavaScript" />
+      <br />
+      <strong>JavaScript</strong>
     </td>
-    <td align="center">2%</td>
-    <td>Structured study phase beginning</td>
+    <td>Core syntax, DOM manipulation, and application logic</td>
+    <td>🟡 Learning</td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" height="35"/><br/>
-      <b>JavaScript</b>
+      <img src="https://skillicons.dev/icons?i=c" width="35" alt="C" />
+      <br />
+      <strong>C</strong>
     </td>
-    <td align="center">1.75%</td>
-    <td>Upcoming focus in Web Development path</td>
+    <td>Programming fundamentals, algorithms, and memory concepts</td>
+    <td>🟡 Learning</td>
   </tr>
 
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="35" alt="Java" />
+      <br />
+      <strong>Java</strong>
+    </td>
+    <td>Object-oriented programming and structured applications</td>
+    <td>🟠 Exploring</td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="35" alt="Python" />
+      <br />
+      <strong>Python</strong>
+    </td>
+    <td>Syntax, problem-solving, and automation fundamentals</td>
+    <td>🟠 Exploring</td>
+  </tr>
 </table>
 
-</div>
+---
+
+<!-- ========================= GOALS ========================= -->
+
+## 🎯 Development Roadmap
+
+- [x] Learn the foundations of HTML
+- [x] Learn the foundations of CSS
+- [ ] Master responsive web design
+- [ ] Strengthen JavaScript fundamentals
+- [ ] Build interactive front-end projects
+- [ ] Learn Git and professional GitHub workflows
+- [ ] Study a modern front-end framework
+- [ ] Learn back-end development and databases
+- [ ] Build complete full-stack applications
+- [ ] Contribute to open-source projects
 
 ---
 
-# 🌐 Web Development
+<!-- ========================= STATS ========================= -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-Learning-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Studying-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Hadji2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="Adem's GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=Hadji2006&theme=tokyonight&hide_border=true"
+    alt="Adem's GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadji2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hadji2006&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff&area=true&hide_border=true"
+    alt="GitHub contribution graph"
+  />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hadji2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="165em" src="https://streak-stats.demolab.com?user=Hadji2006&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadji2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hadji2006/Hadji2006/output/snake.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/Hadji2006/Hadji2006/output/snake.svg"
+    alt="GitHub contribution snake animation"
+  />
 </p>
 
 ---
 
-# 🎯 Development Roadmap
+<!-- ========================= QUOTE ========================= -->
 
-✔ Master HTML & CSS  
-✔ Learn JavaScript deeply  
-✔ Build advanced Front-end projects  
-✔ Study Back-end technologies  
-✔ Build Full Stack Web Applications  
-✔ Contribute to Open Source  
+## 💡 Developer Mindset
+
+<p align="center">
+  <em>
+    “Strong developers are not created overnight. They are built through
+    curiosity, consistency, practice, and patience.”
+  </em>
+</p>
 
 ---
 
+<!-- ========================= CONTACT ========================= -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Hadji2006">
+    <img src="https://img.shields.io/badge/GitHub-Hadji2006-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="mailto:242432047416@univ-chlef.dz">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email address" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Open to learning, collaboration, and meaningful development opportunities.</strong>
+</p>
+
+<!-- ========================= FOOTER ========================= -->
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"
+    alt="Footer"
+  />
+</p>
