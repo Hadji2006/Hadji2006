@@ -7,7 +7,7 @@ Devoloper full stack
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a passionate **Full-Stack Developer** who enjoys transforming ideas into modern, scalable, and user-friendly web applications.
 
@@ -20,15 +20,15 @@ I'm committed to continuous learning, exploring new technologies, and building h
 
 ## 🚀 What I Do
 
-- 🌐 Build responsive websites
-- 🎨 Design clean and modern user interfaces
-- ⚡ Develop fast and optimized web applications
-- 📚 Continuously learn new technologies
-- 💡 Transform ideas into real products
+-  Build responsive websites
+-  Design clean and modern user interfaces
+-  Develop fast and optimized web applications
+-  Continuously learn new technologies
+-  Transform ideas into real products
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -40,7 +40,7 @@ Git • GitHub • VS Code • Linux
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 - **whatsapp:** https://web.whatsapp.com/
 - **Email:** 242432047416@univ-chlef.dz
