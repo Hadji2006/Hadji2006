@@ -17,4 +17,5 @@ I build modern, scalable, and user-focused web applications.
 
 ### Connect
 
-[Portfolio](#) · [LinkedIn](#) · [Email](#)
+📧 **Email:** 242432047416@univ-chlef.dz    
+💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/0657789481)
