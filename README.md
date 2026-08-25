@@ -4,9 +4,7 @@
 
 I build modern, scalable, and user-focused web applications.
 
-### Tech Stack
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `PHP` `Python` `FastAPI` `MySQL` `Supabase` `Tailwind CSS`
 
 ### What I Do
 
